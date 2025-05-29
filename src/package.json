@@ -4,7 +4,7 @@
   "description": "Server for forecasting rain using radar animation data.",
   "main": "forecast-server.js",
   "scripts": {
-    "start": "node server/forecast-server.js"
+    "start": "node forecast-server.js"
   },
   "engines": {
     "node": ">=16.0.0"
